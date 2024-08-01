@@ -1,0 +1,9 @@
+- 👋 Olá, eu sou o @FernandoAlura...
+- 👀 Estou de olho!
+- 📫 Mensagem via internet ;-;...
+- 😄 Pronouns: É uma classe gramatical...
+
+
+<!---
+#PROJETOALURA junto ✨ comigo ✨ 
+--->
